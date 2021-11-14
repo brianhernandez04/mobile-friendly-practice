@@ -50,5 +50,17 @@ footer{
     font-size: 13px;
 }
 @media (min-width: 480px){
-
+.headername{
+    background-color: red;
+}
+}
+@media (min-width: 768px){
+.headername{
+        background-color: blue;
+    }
+}
+@media (min-width: 1024px){
+.headername{
+    background-color: green;
+}
 }
